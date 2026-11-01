@@ -1,2 +1,10 @@
-Day 01: Vessel Information Tool (vessel_info.py)
-Added vessel information program
+# Day 01: Vessel Information Tool (vessel_info.py)
+# Added vessel information program
+
+vessel_name = "FPSO Pioneer"
+length = 320
+breadth = 58
+
+print("Vessel Name:", vessel_name)
+print("Length:", length, "m")
+print("Breadth:", breadth, "m")
