@@ -27,50 +27,12 @@ Phase 4: Generative AI
 Phase 5: Digital Twins and Maritime Applications
 
 # Progress Log
-Day            Topic              Project
-1              Python Setup       Vessel Data Tool
-2              Conditions         Wave Classifier
-3              Loops              Marine Load Estimator
-
-
-
-Projects
-
-Vessel Data Tool
-
-Inputs:
-
-Vessel Name
-Vessel Length
-
-Outputs:
-
-Vessel Information Summary
-
-
-
-Wave Classifier
-
-Classifies sea states based on wave height.
-
-
-
-Marine Load Estimator
-
-Calculates a simplified wave load estimate.
-
-Future Projects
-1. Fatigue Assessment Tool
-2. Hull Corrosion Predictor
-3. Marine Rules Copilot
-4. FPSO Digital Twin
-5. Offshore Design Assistant
-
-
-
-Author
-Abhishek
-
-Marine & Offshore Structural Engineer
-
+## Day 1: <br />
+Topics Learned: Variables, Strings, Numbers, Print Statements <br />
+Project: Vessel Information Tool (vessel_info.py)<br />
+<br />
+<br />
+Author:<br />
+Abhishek<br />
+Marine & Offshore Structural Engineer<br />
 Learning AI for Maritime Applications
