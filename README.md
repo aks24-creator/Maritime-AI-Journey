@@ -35,19 +35,28 @@ Day            Topic              Project
 
 
 Projects
+
 Vessel Data Tool
 
 Inputs:
+
 Vessel Name
 Vessel Length
 
 Outputs:
+
 Vessel Information Summary
 
+
+
 Wave Classifier
+
 Classifies sea states based on wave height.
 
+
+
 Marine Load Estimator
+
 Calculates a simplified wave load estimate.
 
 Future Projects
@@ -61,5 +70,7 @@ Future Projects
 
 Author
 Abhishek
+
 Marine & Offshore Structural Engineer
+
 Learning AI for Maritime Applications
